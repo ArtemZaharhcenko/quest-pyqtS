@@ -20,3 +20,4 @@ print("Проектні менеджери відділів:")
 
 for key in departments.keys():
     print("-",departments[key]["менеджер"])
+    print("Ещкере")
